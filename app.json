@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Hibridines_PD4",
+    "slug": "Hibridines_PD4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Hibridines_PD4"
+}
